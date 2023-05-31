@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**0x-4d/0x-4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+   ,a8888a,                          ,d8             88  
+ ,8P"'  `"Y8,                      ,d888             88  
+,8P        Y8,                   ,d8" 88             88  
+88          88  8b,     ,d8    ,d8"   88     ,adPPYb,88  
+88          88   `Y8, ,8P'   ,d8"     88    a8"    `Y88  
+`8b        d8'     )888(     8888888888888  8b       88  
+ `8ba,  ,ad8'    ,d8" "8b,            88    "8a,   ,d88  
+   "Y8888P"     8P'     `Y8           88     `"8bbdP"Y8  
+                                                         
+```
