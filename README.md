@@ -9,3 +9,5 @@
                                      "Y8888P"     8P'     `Y8           88     `"8bbdP"Y8  
                                                          
 ```
+## Discord BOTS 🤖
+- [Image → Text](https://discord.com/api/oauth2/authorize?client_id=974063311685582868&permissions=8&scope=bot) <sup>(simple bot that converts an image to text)</sup>
